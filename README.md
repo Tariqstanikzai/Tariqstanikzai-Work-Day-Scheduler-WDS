@@ -1,1 +1,1 @@
-# Tariqstanikzai-Work-Day-Scheduler-WDS
+# Work-Day-Scheduler-WDS
