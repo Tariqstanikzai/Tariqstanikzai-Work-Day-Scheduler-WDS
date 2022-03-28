@@ -38,6 +38,7 @@ This should only be used as an exploration or educational project.
 ## Links:
 
 * The URL of the deployed application.
+ https://tariqstanikzai.github.io/Work-Day-Scheduler-WDS/
 
 * The URL of the GitHub repository.
  https://github.com/Tariqstanikzai/Work-Day-Scheduler-WDS 
